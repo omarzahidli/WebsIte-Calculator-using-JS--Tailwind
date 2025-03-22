@@ -1,4 +1,5 @@
 Website Price Calculator
+
 This project is a website price calculator that helps users estimate the cost of building a website based on various factors such as static pages, design complexity, additional features, SEO services, e-commerce integration, and logo design.
 
 Features
